@@ -1,0 +1,47 @@
+{
+  "name": "57",
+  "description": "",
+  "external_url": "",
+  "image": "57.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blurple"
+    },
+    {
+      "trait_type": "Texture",
+      "value": "Waves"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Shell"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Three Eyes"
+    },
+    {
+      "trait_type": "Mouse",
+      "value": "Fangs"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Monroe"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "57.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": []
+  },
+  "compiler": "NFTexport.io"
+}

@@ -1,0 +1,47 @@
+{
+  "name": "31",
+  "description": "",
+  "external_url": "",
+  "image": "31.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Texture",
+      "value": "Waves"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Shirt"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Glasses"
+    },
+    {
+      "trait_type": "Mouse",
+      "value": "Smile"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Fro"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "31.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": []
+  },
+  "compiler": "NFTexport.io"
+}

@@ -1,0 +1,47 @@
+{
+  "name": "71",
+  "description": "",
+  "external_url": "",
+  "image": "71.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blurple"
+    },
+    {
+      "trait_type": "Texture",
+      "value": "Flower"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Sweater"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Glasses"
+    },
+    {
+      "trait_type": "Mouse",
+      "value": "Smile"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Spikes"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "71.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": []
+  },
+  "compiler": "NFTexport.io"
+}

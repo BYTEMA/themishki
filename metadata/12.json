@@ -1,0 +1,47 @@
+{
+  "name": "12",
+  "description": "",
+  "external_url": "",
+  "image": "12.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Texture",
+      "value": "Rays"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Tank"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Standart"
+    },
+    {
+      "trait_type": "Mouse",
+      "value": "Fangs"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Horns"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "12.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": []
+  },
+  "compiler": "NFTexport.io"
+}

@@ -1,0 +1,47 @@
+{
+  "name": "40",
+  "description": "",
+  "external_url": "",
+  "image": "40.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Texture",
+      "value": "Rays"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Tank"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cyclop"
+    },
+    {
+      "trait_type": "Mouse",
+      "value": "Fangs"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Monroe"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "40.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": []
+  },
+  "compiler": "NFTexport.io"
+}

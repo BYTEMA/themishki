@@ -1,0 +1,47 @@
+{
+  "name": "56",
+  "description": "",
+  "external_url": "",
+  "image": "56.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Texture",
+      "value": "Waves"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Chocolate"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Shell"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Standart"
+    },
+    {
+      "trait_type": "Mouse",
+      "value": "Tongue"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Spikes"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "56.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": []
+  },
+  "compiler": "NFTexport.io"
+}

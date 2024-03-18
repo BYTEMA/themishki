@@ -1,0 +1,47 @@
+{
+  "name": "92",
+  "description": "",
+  "external_url": "",
+  "image": "92.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Hot Pink"
+    },
+    {
+      "trait_type": "Texture",
+      "value": "Waves"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Shirt"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Simple"
+    },
+    {
+      "trait_type": "Mouse",
+      "value": "Fang"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Monroe"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "92.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": []
+  },
+  "compiler": "NFTexport.io"
+}
